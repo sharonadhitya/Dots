@@ -1,0 +1,14 @@
+{
+	"lang": "en-US",
+	"darkThemeInvert": false,
+	"disable-hide": true,
+	"option-to-hide-menu": false,
+	"option-to-disable-internal-external-popup": false,
+	"allow-multiple": false,
+	"visible": true,
+	"webview-onenote": {
+		"url": "https://onedrive.live.com/edit?id=D15CE243F620DC23!s4cc99fc3d01341a894ae40962aa0a47b&resid=D15CE243F620DC23!s4cc99fc3d01341a894ae40962aa0a47b&cid=d15ce243f620dc23&wdo=6&wdFre=200&wdorigin=ONDC.AUTOCREATE.NEW",
+		"proxy": ""
+	},
+	"maximized": true
+}

@@ -1,0 +1,31 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+
+# Set screen size more for own use in VB..
+#xrandr -s 1920x1080 &
+
+# Apply background image..
+feh --bg-scale ~/Backgrounds/game.jpg
+
+# Battery/AC applet
+cbatticon -n &
+
+picom --config ~/.config/picom/picom.conf &
+
+polybar &
+# Network applet
+nm-applet &
+
+# Set keyboard layout..
+setxkbmap -layout "us" &
+
+# Start Panel
+(sleep 2 && startpanel) &
+
+# Start Dunst then show a welcome note!
+dunst &
+
+(sleep 2 && notify-send "Use Alt+h to view keyboard shortcuts") &

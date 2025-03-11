@@ -1,0 +1,5 @@
+2025/02/21-13:44:55.468 8252 Creating DB /home/sharon/.config/p3x-onenote/Local Storage/leveldb since it was missing.
+2025/02/21-13:44:55.481 8252 Reusing MANIFEST /home/sharon/.config/p3x-onenote/Local Storage/leveldb/MANIFEST-000001
+2025/02/21-13:47:14.263 82ac Level-0 table #5: started
+2025/02/21-13:47:14.285 82ac Level-0 table #5: 43346 bytes OK
+2025/02/21-13:47:14.288 82ac Delete type=0 #3

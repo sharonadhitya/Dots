@@ -1,0 +1,6 @@
+2025/03/05-12:46:19.874 13f1 Creating DB /home/sharon/.config/google-chrome/Default/IndexedDB/https_assessment.hackerearth.com_0.indexeddb.leveldb since it was missing.
+2025/03/05-12:46:19.878 13f1 Reusing MANIFEST /home/sharon/.config/google-chrome/Default/IndexedDB/https_assessment.hackerearth.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/05-12:51:59.866 13f2 Level-0 table #5: started
+2025/03/05-12:51:59.869 13f2 Level-0 table #5: 1183 bytes OK
+2025/03/05-12:51:59.871 13f2 Delete type=0 #3
+2025/03/05-12:51:59.871 13f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

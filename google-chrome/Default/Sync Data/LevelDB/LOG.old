@@ -1,0 +1,6 @@
+2025/03/06-09:46:11.240 c07 Reusing MANIFEST /home/sharon/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/03/06-09:46:11.246 c07 Recovering log #3
+2025/03/06-09:46:11.249 c07 Reusing old log /home/sharon/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2025/03/06-09:49:38.789 c07 Level-0 table #5: started
+2025/03/06-09:49:38.806 c07 Level-0 table #5: 114809 bytes OK
+2025/03/06-09:49:38.809 c07 Delete type=0 #3

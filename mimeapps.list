@@ -1,0 +1,11 @@
+[Default Applications]
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop
+video/x-matroska=vlc.desktop
+x-scheme-handler/notion=notion-app.desktop
+
+[Added Associations]
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop;
+video/x-matroska=vlc.desktop;
+image/jpeg=firefox.desktop;
+text/plain=libreoffice-writer.desktop;
+image/png=firefox.desktop;

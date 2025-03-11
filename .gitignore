@@ -1,0 +1,128 @@
+# Node.js
+/node_modules/
+/npm-debug.log
+/yarn-debug.log
+/yarn-error.log
+/package-lock.json
+/yarn.lock
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.eggs
+*.egg-info/
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+/.mvn/
+target/
+
+# Go
+/bin/
+/pkg/
+
+# Ruby
+*.gem
+*.rbc
+/.bundle/
+/vendor/
+
+# JavaScript
+*.log
+*.eslintcache
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# JetBrains
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
+
+# Log files
+*.log
+
+# Dependency directories
+bower_components/
+
+# JetBrains
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# .env files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Docker
+*.dockerfile
+Dockerfile.*
+docker-compose*.yml
+docker-compose*.yaml
+
+# Webpack
+/dist
+*.map
+
+# Google Cloud SDK
+.gcloud/
+
+# AWS
+.aws/
+
+# npm logs
+npm-debug.log*
+
+# Yarn logs
+yarn-debug.log*
+yarn-error.log*
+
+# Test result folders
+/coverage/
+
+# Other
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+nvim/
