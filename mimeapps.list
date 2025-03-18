@@ -2,10 +2,12 @@
 application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop
 video/x-matroska=vlc.desktop
 x-scheme-handler/notion=notion-app.desktop
+application/x-zerosize=libreoffice-startcenter.desktop
 
 [Added Associations]
-application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;firefox.desktop;
 video/x-matroska=vlc.desktop;
-image/jpeg=firefox.desktop;
+image/jpeg=firefox.desktop;feh.desktop;
 text/plain=libreoffice-writer.desktop;
 image/png=firefox.desktop;
+application/x-zerosize=nvim.desktop;libreoffice-startcenter.desktop;

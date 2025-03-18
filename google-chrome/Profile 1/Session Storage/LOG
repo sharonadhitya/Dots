@@ -1,2 +1,6 @@
-2025/03/06-09:52:24.351 4 Creating DB /home/sharon/.config/google-chrome/Profile 1/Session Storage since it was missing.
-2025/03/06-09:52:24.355 4 Reusing MANIFEST /home/sharon/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2025/03/12-09:31:09.332 4 Reusing MANIFEST /home/sharon/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2025/03/12-09:31:09.337 4 Recovering log #3
+2025/03/12-09:31:09.342 4 Reusing old log /home/sharon/.config/google-chrome/Profile 1/Session Storage/000003.log 
+2025/03/12-09:33:26.025 5 Level-0 table #5: started
+2025/03/12-09:33:26.045 5 Level-0 table #5: 26976 bytes OK
+2025/03/12-09:33:26.049 5 Delete type=0 #3

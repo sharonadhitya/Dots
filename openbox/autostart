@@ -8,7 +8,7 @@
 #xrandr -s 1920x1080 &
 
 # Apply background image..
-feh --bg-scale ~/Backgrounds/game.jpg
+feh --bg-scale ~/Backgrounds/beach.jpg
 
 # Battery/AC applet
 cbatticon -n &
