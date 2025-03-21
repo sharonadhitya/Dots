@@ -15,7 +15,7 @@ cbatticon -n &
 
 picom --config ~/.config/picom/picom.conf &
 
-polybar &
+polybar main &
 # Network applet
 nm-applet &
 
